@@ -7,4 +7,9 @@ public class LoginPage {
 		System.out.println("Login");
 	}
 	
+	
+	public void loginagaintest()
+	{
+		System.out.println("babababab");
+	}
 }
