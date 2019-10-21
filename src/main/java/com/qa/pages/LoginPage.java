@@ -12,4 +12,10 @@ public class LoginPage {
 	{
 		System.out.println("babababab");
 	}
+	
+	public void login3rdtest()
+	{
+		System.out.println("babababab");
+	}
+	
 }
